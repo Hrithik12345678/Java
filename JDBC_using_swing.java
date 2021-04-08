@@ -1,3 +1,9 @@
+// textField1 for user ID
+// textField2 for user Name
+// textField3 for operation compeletion
+
+
+
 package com.company;
 
 import javax.swing.*;
